@@ -1,0 +1,14 @@
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\bin\Debug\net8.0\TipodeDados2.exe
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\bin\Debug\net8.0\TipodeDados2.deps.json
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\bin\Debug\net8.0\TipodeDados2.runtimeconfig.json
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\bin\Debug\net8.0\TipodeDados2.dll
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\bin\Debug\net8.0\TipodeDados2.pdb
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\obj\Debug\net8.0\TipodeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\obj\Debug\net8.0\TipodeDados2.AssemblyInfoInputs.cache
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\obj\Debug\net8.0\TipodeDados2.AssemblyInfo.cs
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\obj\Debug\net8.0\TipodeDados2.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\obj\Debug\net8.0\TipodeDados2.dll
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\obj\Debug\net8.0\refint\TipodeDados2.dll
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\obj\Debug\net8.0\TipodeDados2.pdb
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\obj\Debug\net8.0\TipodeDados2.genruntimeconfig.cache
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\TipodeDados2\TipodeDados2\obj\Debug\net8.0\ref\TipodeDados2.dll
