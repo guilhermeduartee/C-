@@ -1,0 +1,4 @@
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\CSFundamentos1\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\CSFundamentos1\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.AssemblyInfoInputs.cache
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\CSFundamentos1\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.AssemblyInfo.cs
+C:\Users\guilherme.azevedo\Documents\Estudos\C#\CSFundamentos1\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.csproj.CoreCompileInputs.cache
